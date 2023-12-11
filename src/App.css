@@ -1,0 +1,15 @@
+.high {
+  background-color: orange;
+  padding: 0.25rem 1rem;
+  border-radius: 0.5rem;
+}
+.low {
+  background-color: rgb(81, 81, 236);
+  padding: 0.25rem 1rem;
+  border-radius: 0.5rem;
+}
+
+.checked {
+  color: rgb(210, 210, 210);
+  text-decoration: line-through;
+}
